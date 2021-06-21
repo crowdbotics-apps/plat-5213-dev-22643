@@ -3,7 +3,7 @@
 This is a repository for a web application developed with Django, built with [Crowdbotics](https://crowdbotics.com)
 
 ## Table of Contents
-- Project Structure
+- [Project Structure](#project-structure)
 - Getting Started: Backend
   - Docker Setup
   - Local Setup
