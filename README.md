@@ -10,7 +10,7 @@ Welcome to your new Crowdbotics app.
     - [Android](https://github.com/crowdbotics-apps/plat-5213-dev-22643#android-1)
     - [iOS](https://github.com/crowdbotics-apps/plat-5213-dev-22643#ios-1)
     - [React Native Web](https://github.com/crowdbotics-apps/plat-5213-dev-22643#react-native-web)
-- [Getting Started: Backend](/backend/README.md)
+- [Getting Started: Backend](https://github.com/crowdbotics-apps/plat-5213-dev-22643/tree/master/backend#readme)
 
 ## Project Structure
 
