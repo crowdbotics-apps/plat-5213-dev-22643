@@ -4,6 +4,24 @@
 
 Welcome to your new Crowdbotics app.
 
+### Project Structure
+
+    .
+    ├── ...
+    ├── android                 # Android native files
+    ├── backend                 # Django backend REST API
+    ├── ios                     # iOS native files
+    ├── modules                 # Modules
+    ├── public                  
+    ├── screens                 
+    ├── store                   # Application state storage
+    ├── ...
+    ├── README.md
+    └── ...
+
+### Important Links
+- [Backend README.md](/backend/README.md)
+
 ### Metro
 
 After cloning the repo, install the dependencies locally with [Yarn](https://yarnpkg.com/):
