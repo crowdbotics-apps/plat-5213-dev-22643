@@ -3,7 +3,7 @@
 Welcome to your new Crowdbotics app.
 
 ## Table of Contents
-- [Project Structure](/#project-structure)
+- [Project Structure](https://github.com/crowdbotics-apps/plat-5213-dev-22643#project-structure)
 - Getting Started: Frontend
   - Installation
   - Running with Fastlane
@@ -27,7 +27,7 @@ Welcome to your new Crowdbotics app.
     ├── README.md
     └── ...
 
-## Getting started
+## Getting started: Frontend
 
 This section outlines instructions on setting up a local development environment for the frontend of your application.
 
