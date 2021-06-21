@@ -21,7 +21,7 @@ This is a repository for a web application developed with Django, built with [Cr
     ├── README.md
     └── ...
 
-### Features
+## Features
 
 1. **Local Authentication** using email and password with [allauth](https://pypi.org/project/django-allauth/)
 2. **Rest API** using [django rest framework](http://www.django-rest-framework.org/)
@@ -30,7 +30,7 @@ This is a repository for a web application developed with Django, built with [Cr
 5. Toast Notification
 6. Inline content editor in homepage
 
-## Getting Started: Backend
+# Getting Started: Backend
 
 Following are instructions on setting up your development environment.
 
@@ -38,7 +38,7 @@ The recommended way for running the project locally and for development is using
 
 It's possible to also run the project without Docker.
 
-### Docker Setup (Recommended)
+## Docker Setup (Recommended)
 
 This project is set up to run using [Docker Compose](https://docs.docker.com/compose/) by default. It is the recommended way. You can also use existing Docker Compose files as basis for custom deployment, e.g. [Docker Swarm](https://docs.docker.com/engine/swarm/), [kubernetes](https://kubernetes.io/), etc.
 
@@ -76,12 +76,12 @@ This project is set up to run using [Docker Compose](https://docs.docker.com/com
    ```
    You will find an activation link in the server log output.
 
-### Local Setup (Alternative to Docker)
+## Local Setup (Alternative to Docker)
 
 1. [Postgresql](https://www.postgresql.org/download/)
 2. [Python](https://www.python.org/downloads/release/python-365/)
 
-#### Installation
+### Installation
 
 1. Install [pipenv](https://pypi.org/project/pipenv/)
 2. Clone this repo and `cd plat_5213_dev_22643`
@@ -92,7 +92,7 @@ This project is set up to run using [Docker Compose](https://docs.docker.com/com
 7. Update .env file `DATABASE_URL` with your `database_name`, `database_user`, `database_password`, if you use postgresql.
    Can alternatively set it to `sqlite:////tmp/my-tmp-sqlite.db`, if you want to use sqlite for local development.
 
-#### Getting Started
+### Getting Started
 
 1. Run `pipenv shell`
 2. Run `python manage.py makemigrations`
