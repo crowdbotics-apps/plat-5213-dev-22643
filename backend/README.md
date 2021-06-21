@@ -2,6 +2,22 @@
 
 This is a repository for a web application developed with Django, built with [Crowdbotics](https://crowdbotics.com)
 
+### Project Structure: Backend
+
+    ..
+    ├── home                     # Starter home app
+    ├── modules                  # Crowdbotics Modules app
+    ├── plat_5213_dev_22643      # Django project configurations
+    ├── static                   # Static assets
+    ├── users                    # Starter users app
+    ├── web_build                # React Native Web build
+    ├── ...
+    ├── README.md
+    └── ...
+
+### Important Links
+- [Frontend README.md](../README.md)
+
 ### Features
 
 1. **Local Authentication** using email and password with [allauth](https://pypi.org/project/django-allauth/)
