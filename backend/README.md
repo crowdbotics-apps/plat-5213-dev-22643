@@ -4,9 +4,9 @@ This is a repository for a web application developed with Django, built with [Cr
 
 ## Table of Contents
 - [Project Structure](#project-structure)
-- Getting Started: Backend
-  - Docker Setup
-  - Local Setup
+- [Getting Started: Backend](#getting-started-backend)
+  - [Docker Setup (recommended)](#docker-setup-recommended)
+  - [Local Setup](#local-setup-alternative-to-docker)
 
 ## Project Structure
 
