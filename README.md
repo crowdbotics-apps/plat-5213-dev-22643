@@ -4,13 +4,13 @@ Welcome to your new Crowdbotics app.
 
 ## Table of Contents
 - [Project Structure](#project-structure)
-- [Getting Started: Frontend](https://github.com/crowdbotics-apps/plat-5213-dev-22643#getting-started-frontend)
-  - [Installation](https://github.com/crowdbotics-apps/plat-5213-dev-22643#installation)
-  - [Running with Fastlane](https://github.com/crowdbotics-apps/plat-5213-dev-22643#running-with-fastlane)
-    - [Android](https://github.com/crowdbotics-apps/plat-5213-dev-22643#android-1)
-    - [iOS](https://github.com/crowdbotics-apps/plat-5213-dev-22643#ios-1)
-    - [React Native Web](https://github.com/crowdbotics-apps/plat-5213-dev-22643#react-native-web)
-- [Getting Started: Backend](https://github.com/crowdbotics-apps/plat-5213-dev-22643/tree/master/backend#readme)
+- [Getting Started: Frontend](#getting-started-frontend)
+  - [Installation](#installation)
+  - [Running with Fastlane](#running-with-fastlane)
+    - [Android](#android-1)
+    - [iOS](#ios-1)
+    - [React Native Web](#react-native-web)
+- [Getting Started: Backend](backend#readme)
 
 ## Project Structure
 
