@@ -1,10 +1,18 @@
 # plat_5213_dev_22643
 
-## Getting started
-
 Welcome to your new Crowdbotics app.
 
-### Project Structure
+## Table of Contents
+- [Project Structure](/#project-structure)
+- Getting Started: Frontend
+  - Installation
+  - Running with Fastlane
+    - Android
+    - iOS
+    - React Native Web
+- [Getting Started: Backend](/backend/README.md)
+
+## Project Structure
 
     .
     ├── ...
@@ -19,8 +27,11 @@ Welcome to your new Crowdbotics app.
     ├── README.md
     └── ...
 
-### Important Links
-- [Backend README.md](/backend/README.md)
+## Getting started
+
+This section outlines instructions on setting up a local development environment for the frontend of your application.
+
+## Installation
 
 ### Metro
 
