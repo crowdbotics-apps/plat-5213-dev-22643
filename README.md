@@ -2,7 +2,28 @@
 
 Welcome to your new Crowdbotics app.
 
+## What is Crowdbotics?
+Crowdbotics is an easy way to build software applications of all kinds.  You can build production, high-caliber software applications in minutes, rather than weeks or months, even if you're not a software developer.
+
+The reason this works is that most software applications and features we want to build are similar to applications that have been built before. We've crawled hundreds of thousands of public code repositories to teach the Crowdbotics engine how to create software.
+
+As a result, Crowdbotics can generate new applications automatically in a standardized way.
+
+### Useful Links
+<p>
+  <a href="https://app.crowdbotics.com/">App Dashboard</a>
+  ·
+  <a href="https://knowledge.crowdbotics.com/">Knowledgebase</a>
+  ·
+  <a href="https://knowledge.crowdbotics.com/crowdbotics-developer-training">Developer Training</a>
+  ·
+  <a href="https://discuss.crowdbotics.com/">Forum</a>
+  ·
+  <a href="https://crowdbotics.slack.com/archives/CGSAV319V">Tech Support</a>
+</p> 
+
 ## Table of Contents
+- [Project Description](#project-description)
 - [Project Structure](#project-structure)
 - [Getting Started: Frontend](#getting-started-frontend)
   - [Installation](#installation)
@@ -11,6 +32,10 @@ Welcome to your new Crowdbotics app.
     - [iOS](#ios-1)
     - [React Native Web](#react-native-web)
 - [Getting Started: Backend](backend#readme)
+
+## Project Description
+
+{{ project.description }}
 
 ## Project Structure
 
