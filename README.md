@@ -32,6 +32,7 @@ As a result, Crowdbotics can generate new applications automatically in a standa
     - [iOS](#ios-1)
     - [React Native Web](#react-native-web)
 - [Getting Started: Backend](backend#readme)
+- [License](LICENSE)
 
 ## Project Description
 
@@ -135,3 +136,5 @@ Please follow the steps
 
 - please run `yarn web-build`
 - the web_build folder is generated and copied to backend/ automatically. please commit/push the web_build folder to git
+
+# License
