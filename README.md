@@ -23,16 +23,16 @@ As a result, Crowdbotics can generate new applications automatically in a standa
 </p> 
 
 ## Table of Contents
-- [Project Description](#project-description)
-- [Project Structure](#project-structure)
-- [Getting Started: Frontend](#getting-started-frontend)
-  - [Installation](#installation)
-  - [Running with Fastlane](#running-with-fastlane)
-    - [Android](#android-1)
-    - [iOS](#ios-1)
-    - [React Native Web](#react-native-web)
-- [Getting Started: Backend](backend#readme)
-- [License](LICENSE)
+1. [Project Description](#project-description)
+2. [Project Structure](#project-structure)
+3. [Getting Started: Frontend](#getting-started-frontend)
+   - [Installation](#installation)
+   - [Running with Fastlane](#running-with-fastlane)
+     - [Android](#android-1)
+     - [iOS](#ios-1)
+     - [React Native Web](#react-native-web)
+4. [Getting Started: Backend](backend#readme)
+5. [License](#license)
 
 ## Project Description
 
