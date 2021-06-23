@@ -138,8 +138,6 @@ Please follow the steps
 - the web_build folder is generated and copied to backend/ automatically. please commit/push the web_build folder to git
 
 # License
-Disclaimer: The scaffold and everything in it is open and free to use as long as you comply with the [license](LICENSE). We promise to do our best to improve the code and fix bugs.
-
-Some apps do call for extra code; we can cover unique use cases and help you build a custom application on our platform.
+The use of code in this repository is governed by Crowdbotics [Terms and Conditions](https://www.crowdbotics.com/terms-of-service).
 
 Created with ❤️ by [Crowdbotics](https://www.crowdbotics.com/)
